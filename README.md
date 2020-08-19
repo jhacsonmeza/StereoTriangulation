@@ -1,0 +1,3 @@
+# Stereo Vision Triangulation
+
+Notes on stereo vision triangulation where different strategies to perform structure estimation with a stereo-vision system are discussed. Theory and examples using a dataset are used in this notebook. Additionally, a special case of triangulation in structure light systems is also considered. Nbextensions was used in the notebook. With the HTML version, you can see the proper format of the notebook.
